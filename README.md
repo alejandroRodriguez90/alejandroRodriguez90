@@ -69,19 +69,21 @@
 
 ## 📊 Mis Estadísticas en GitHub
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroRodriguez90&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandrorodriguez90&show_icons=true&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroRodriguez90&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrorodriguez90&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alejandroRodriguez90&theme=dracula&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=alejandrorodriguez90&theme=dracula&hide_border=true" />
 </p>
 
 ---
+
 
 ## 📫 ¡Conéctame!
 
