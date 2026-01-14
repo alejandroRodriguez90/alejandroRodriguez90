@@ -70,13 +70,11 @@
 ## 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrorodriguez90&show_icons=true&theme=dracula" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alejandrorodriguez90&theme=dracula"
+    alt="Actividad en GitHub"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandrorodriguez90&theme=dracula" />
-</p>
-
 
 
 ## 📫 ¡Conéctame!
