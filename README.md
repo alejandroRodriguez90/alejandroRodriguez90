@@ -15,38 +15,48 @@
   </a>
 </p>
 
+<!-- ===================== PERFIL GITHUB ===================== -->
+
 <!-- Resumen Profesional -->
 <pre align="center">
-💻 Desarrollador apasionado por la creación de soluciones web completas y escalables.
-🚀 Experiencia sólida en el ecosistema de desarrollo con Python, especialmente con el framework Django.
-🌐 Hábil en la construcción de interfaces de usuario dinámicas con HTML, CSS y JavaScript.
-💾 Competente en la gestión y diseño de bases de datos relacionales y no relacionales como PostgreSQL, MySQL y MongoDB.
-🌱 Siempre aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+💻 Desarrollador Web Full-Stack Junior enfocado en la creación de aplicaciones web modernas, funcionales y escalables.
+⚛️ Experiencia en desarrollo Frontend utilizando React, JavaScript, HTML5, CSS3 y Bootstrap, creando interfaces responsivas y orientadas a la experiencia de usuario.
+🐍 Conocimientos en Backend con Python y Django para la construcción de lógica de negocio y APIs REST.
+🔐 Consumo y prueba de APIs, autenticación básica y manejo de herramientas como Postman.
+💾 Gestión básica de bases de datos relacionales y no relacionales como MySQL, PostgreSQL y MongoDB.
+🌱 Aprendiz constante, comprometido con mejorar mis habilidades y mantenerme actualizado con las mejores prácticas del desarrollo web.
 </pre>
 
----
+<!-- Stack Tecnológico -->
+💻 Stack Tecnológico 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
 
-### 💻 Stack Tecnológico <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-
+<!-- Frontend -->
 <p align="center">
   <b>Frontend:</b><br>
+  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
+
+<!-- Backend -->
 <p align="center">
   <b>Backend:</b><br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/django%20rest%20framework-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
 </p>
+
+<!-- Bases de Datos -->
 <p align="center">
   <b>Bases de Datos:</b><br>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
----
 
 ### 📊 Mis Estadísticas en GitHub
 <p align="center">
