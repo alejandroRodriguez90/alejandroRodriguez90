@@ -12,9 +12,10 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.vercel.app/?font=Roboto&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS;Learning+Backend+Node.js"
+    src="https://readme-typing-svg.vercel.app/?font=Roboto&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desarrollo+de+Soluciones+Web;Frontend+con+React+HTML+CSS+JavaScript;Backend+con+Python+%7C+Django;Creador+de+Experiencias+de+Usuario;Transformando+Ideas+en+Codigo+Funcional"
   />
 </p>
+
 
 
 ---
