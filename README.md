@@ -59,18 +59,29 @@
 
 
 ### 📊 Mis Estadísticas en GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroRodriguez90&show_icons=true&locale=es&theme=dracula&hide_border=true" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroRodriguez90&langs_count=6&locale=es&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroRodriguez90&theme=dracula&hide_border=true" alt="Racha de Contribuciones"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alejandroRodriguez90/alejandroRodriguez90/main/github-contribution-grid-snake.svg" alt="snake">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alejandroRodriguez90&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
+    alt="Estadísticas de GitHub"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroRodriguez90&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800"
+    alt="Lenguajes más usados"
+  />
+</p>
 
-### 📫 ¡Conectemos!
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=alejandroRodriguez90&theme=dracula&hide_border=true"
+    alt="Racha de contribuciones"
+  />
+</p>
+
+### 📫 ¡Conecteme!
 <div align="center">
   <p>¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!</p>
   <a href="https://www.linkedin.com/in/david-alejandro-rodriguez-69624979/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
