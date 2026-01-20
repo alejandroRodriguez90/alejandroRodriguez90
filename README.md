@@ -22,7 +22,7 @@
 
 <!-- ===================== PERFIL PROFESIONAL ===================== -->
 <pre align="center">
-💻 Desarrollador Web Full-Stack Junior enfocado en la creación de aplicaciones web modernas, funcionales y escalables.
+💻 Desarrollador Frontend enfocado en la creación de aplicaciones web modernas, funcionales y escalables.
 
 ⚛️ Experiencia en desarrollo Frontend utilizando React, JavaScript, HTML5, CSS3 y Bootstrap,
     creando interfaces responsivas orientadas a la experiencia de usuario.
