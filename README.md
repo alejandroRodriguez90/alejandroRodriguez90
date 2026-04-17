@@ -12,7 +12,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.vercel.app/?font=Inter&size=28&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Desarrollador+Full+Stack;Frontend+con+React+%26+TypeScript;Backend+con+Python+%7C+Django;Creando+experiencias+web+excepcionales;Transformando+ideas+en+código+funcional+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.vercel.app/?font=Inter&size=28&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Desarrollador+Frontend+con+React+%26+TypeScript;Backend+con+Python+%7C+Django;Creando+experiencias+web+excepcionales;Transformando+ideas+en+código+funcional+%F0%9F%9A%80" 
     alt="Typing Animation"
   />
 </p>
